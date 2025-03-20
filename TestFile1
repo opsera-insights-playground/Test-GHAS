@@ -1,2 +1,1 @@
-[SECURITY CHECK] Do not commit secrets like API keys, passwords, or tokens!
-Example: API_KEY=abcd1234, PASSWORD=secret
+auth_token=Mjk3aFJlZ0ZyZnFqZTJpMWp5ZDFlN2pNMDM5aGxqczI=
