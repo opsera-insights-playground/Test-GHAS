@@ -1,0 +1,17 @@
+# GitHub Token (Triggers Default)
+github_pat_12AABCDRTY9hMNW3pyTQXz_xyA8J7N6XYZplXUeuonYh49R3EMaLOiGc9DkMmplRtJKHGLRTWXpSiGVYZ
+
+# AWS Secret Key (Triggers Default)
+AWS_SECRET_ACCESS_KEY=XYZA1234567890ABCDEFXYZA1234567890ABCDEF
+
+# Stripe API Key (Triggers Default)
+sk_live_51HqTTkz7vY9PQLkALjXYHzOT4qWXR8XYZA12345GOpW9GfFt3
+
+# High Entropy Fake API Key (Triggers Generic)
+API_ACCESS_TOKEN=NzNkY2E3MTQtNzNlYS00ZTJlLTlkZTAtYzZkZGE4MjFmMjg4
+
+# Random Base64 Secret (Triggers Generic)
+GENERIC_SECRET=YmMzNzI1OGItMjIzMS00ODJiLWIxOTktNzVkYzM4ZjA3OTdlCg==
+
+# Obfuscated Secret (Triggers Generic)
+SECURE_KEY_ABC=akd81MZGUmVKRk9lb2pmejJXSlRnWFlCRDlmc3FhTWlX
